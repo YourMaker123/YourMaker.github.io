@@ -27,6 +27,6 @@
     <h2 id="i">Top 10 Best Places to Visit</h2>
     <h3 id="hi">1. Temples of Angkor, Cambodia</h3>
     <p id="l">The Temples of Angkor in Cambodia is one of the greatest man-made structures in the world.</p>
-    
+    <img src="https://www.fodors.com/wp-content/uploads/2018/10/02.1_Angkor101_Pass_dreamstime_xxl_60637934.jpg">
     </body>
 </html>
