@@ -17,7 +17,7 @@
       font-weight: bold;
       }
       #l{
-      text-align: center;
+     
       }
         
       </style>
