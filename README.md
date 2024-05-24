@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>
 <html>
     <head>
         <title>Vicky's most latest Website</title>
