@@ -16,6 +16,9 @@
       #i{
       font-weight: bold;
       }
+      #l{
+      text-align: center;
+      }
         
       </style>
     </head>
@@ -23,6 +26,7 @@
     <h1 id="h">Awesome Website</h1>
     <h2 id="i">Top 10 Best Places to Visit</h2>
     <h3 id="hi">1. Temples of Angkor, Cambodia</h3>
-    <p>The Temples of Angkor in Cambodia is one of the greatest man-made structures in the world.</p>
+    <p id="l">The Temples of Angkor in Cambodia is one of the greatest man-made structures in the world.</p>
+    
     </body>
 </html>
